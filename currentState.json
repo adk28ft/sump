@@ -1,0 +1,6 @@
+{
+    "sumpPumpFloodingState": false, 
+    "sumpPumpWaterOutsideWellState": false, 
+    "waterInWellState": false, 
+    "basementWaterSensorState": false
+}
